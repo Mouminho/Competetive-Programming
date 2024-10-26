@@ -3,8 +3,6 @@
 
 Welcome to my **ICPC Problem Solutions** repository! 🌟 Here, you'll find my solutions to some ICPC (International Collegiate Programming Contest) problems.
 
-![ICPC Logo](https://upload.wikimedia.org/wikipedia/commons/7/7f/ICPC_International_Collegiate_Programming_Contest_logo.svg)
-
 ## 💼 About This Repository
 This repository serves as a collection of my problem-solving journey through ICPC-style problems. Each folder or file includes:
 - Problem statement 🌐
