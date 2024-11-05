@@ -1,7 +1,7 @@
 
 # 🧠 ICPC Problem Solutions Repository
 
-Welcome to my **ICPC Problem Solutions** repository! 🌟 Here, you'll find my solutions to some ICPC (International Collegiate Programming Contest) problems.
+🌟 my solutions to some ICPC (International Collegiate Programming Contest) problems.
 
 ## 💼 About This Repository
 This repository serves as a collection of my problem-solving journey through ICPC-style problems. Each folder or file includes:
